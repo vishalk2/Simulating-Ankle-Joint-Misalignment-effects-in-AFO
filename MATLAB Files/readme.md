@@ -1,4 +1,3 @@
-# Simulating Ankle-joint Misalignment effects in Ankle-Foot-Orthosis (AFO)
 
 ## MATLAB Files
   1. AFO_Graphical_Input.m
