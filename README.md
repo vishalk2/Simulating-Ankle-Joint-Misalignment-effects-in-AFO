@@ -41,6 +41,7 @@ The Research Project involves -
     * AFO_Manual_Input : MATLAB file for AFO analysis with Manual Input (Typed) prompts
     * AFO_Simulation, Simulation : MATLAB files for simulating/calculating relative motions for all 4 cases considered
     * AFO_Gait_Analysis : MATLAB file for simulating Gait Analysis
+* ALL_Files : Zip file consisting of all files (Figures, MATLAB Codes, Results, etc.)
 
 <br>
 <hr>
