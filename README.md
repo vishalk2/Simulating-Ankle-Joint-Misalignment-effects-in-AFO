@@ -2,6 +2,7 @@
 
 ### Contents
 - [ABOUT](#about)
+- [RESEARCH PAPER](#research-paper)
 - [KEYWORDS](#keywords)
 - [REPO FILES](#repo-files)
 - [AFO MODEL](#afo-model)
@@ -17,6 +18,12 @@ This Research Work involves -
 - Calculations of Anterior-Posterior(A-P) & Proximal-Distal(P-D) relative motions between lower limb and the AFO for a set of 4 test cases.
 - Estimation of Calf Band Travel.
 - Prediction of Pressure Points on leg.
+
+<br>
+<hr>
+
+### RESEARCH PAPER
+DOI: https://link.springer.com/chapter/10.1007/978-3-031-15758-5_15
 
 <br>
 <hr>
