@@ -5,8 +5,6 @@
 - [RESEARCH PAPER](#research-paper)
 - [KEYWORDS](#keywords)
 - [REPO FILES](#repo-files)
-- [AFO MODEL](#afo-model)
-- [SIMULATION](#simulation)
 
 <br>
 <hr>
@@ -51,21 +49,3 @@ DOI: https://link.springer.com/chapter/10.1007/978-3-031-15758-5_15
 * ALL_Files : Zip file consisting of all files (Figures, MATLAB Codes, Results, etc.)
 
 <br>
-<hr>
-
-### AFO MODEL
-
-![Screenshot (1393)](https://user-images.githubusercontent.com/68963724/165828195-ea6b5d2d-c0e0-4010-955d-6a25d91c6ca5.png)
-
-
-<br>
-<hr>
-
-### SIMULATION
-
-![Screenshot (1394)](https://user-images.githubusercontent.com/68963724/165828467-7ed74ac2-012b-458f-9d1d-ce4b2c60d9b7.png)
-
-
-![Screenshot (1395)](https://user-images.githubusercontent.com/68963724/165828478-9f095f89-aa73-42d7-bf86-2e5455213259.png)
-
-
