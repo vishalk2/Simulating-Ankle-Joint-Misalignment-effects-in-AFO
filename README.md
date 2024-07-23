@@ -1,13 +1,17 @@
 # Simulating Ankle Joint Misalignments effects in Ankle Foot Orthosis (AFO)
 
+<br>
+
 ### Contents
 - [ABOUT](#about)
-- [RESEARCH PAPER](#research-paper)
 - [KEYWORDS](#keywords)
+- [RESEARCH](#research)
 - [REPO FILES](#repo-files)
+- [RESEARCH PAPER](#research-paper)
 
 <br>
 <hr>
+<br>
 
 ### ABOUT
 This Research Work involves:
@@ -19,14 +23,12 @@ This Research Work involves:
 
 <br>
 <hr>
-
-### RESEARCH PAPER
-DOI: https://link.springer.com/chapter/10.1007/978-3-031-15758-5_15
-
 <br>
-<hr>
 
 ### KEYWORDS
+
+<br>
+
 - orthosis
 - ankle joint
 - biomechanics
@@ -37,6 +39,7 @@ DOI: https://link.springer.com/chapter/10.1007/978-3-031-15758-5_15
 
 <br>
 <hr>
+<br>
 
 ### REPO FILES
 
@@ -73,3 +76,14 @@ AFO_Analysis.xlsx
    * Feel free to experiment with the dashboard.
 
 <br>
+<hr>
+<br>
+
+### RESEARCH PAPER
+
+<br>
+
+DOI: https://link.springer.com/chapter/10.1007/978-3-031-15758-5_15
+
+<br>
+<hr>
